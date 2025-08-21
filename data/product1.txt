@@ -1,0 +1,3 @@
+Product X is available in red, black, and silver. 
+It has a 2-year warranty. 
+Price: $299.
